@@ -49,7 +49,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://liveanand86.github.io/Games/) :point_left:
+[Live Demo Link](https://liveanand86.github.io/Rock-Paper-Scissor/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
